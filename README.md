@@ -7,7 +7,7 @@ Stemfie es un projecte de construcció lliure, que s'imprimeix en 3D (http://ste
 
 <img src="Imatges/GuepardBotArtur1.jpg" width="300" />
 
-Tota la [documentació es pot trobar en PDF](https://github.com/maynej/GuepardBot/tree/main/Doc).
+Tota la [documentació es pot trobar en PDF](https://github.com/maynej/GuepardBot/tree/main/Doc/GuerpadBOT.pdf).
 
 STL per imprimir (https://github.com/maynej/GuepardBot/tree/main/STL).
 
