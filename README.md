@@ -19,7 +19,6 @@ Suport Arduino Nano i tapa |![](Imatges/GUEPARDBOT1.png) ![](Imatges/GUEPARDBOT2
 Suport Bateria Li-ion 18650|![](Imatges/GUEPARDBOT3.png) | [18650](STL/18650Holder2Stemfie.stl)
 Suport Servo-motor SG9|![](Imatges/Servo1.png) ![](Imatges/Servo2.png) | [ServoSuport 3H](STL/ServoSuport4migStemfie.stl), [ServoSuport 3V](STL/ServoSuport3VStemfie.stl)
 Suport palanca Servo-motor SG9|![](Imatges/Servo3.png) |[Adapter SG9](STL/Servo9GAdapter_Stemfie.stl)
-Suport Sensor HC-SR04|![](Imatges/SensorDistancia.png) |[HC-SR04 Asimetric 3H](SensorsMount/SensorAsimetric3H_Stemfie.stl), [HC-SR04 Asimetric 3V](SensorsMount/SensorAsimetric3Stemfie.stl), [HC-SR04 Asimetric 4V](SensorsMount/SensorAsimetric4Stemfie.stl)
 Biga 22 |![](Imatges/GUEPARDBOT4.png) | [Biga 22](STL/Beam22.stl)
 Biga 6 |![](Imatges/GUEPARDBOT5.png) | [Biga 6](STL/Beam1x1x6.stl)
 Biga 4 |![](Imatges/GUEPARDBOT6.png) | [Biga 4](STL/Beam1x1x4.stl)
