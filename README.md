@@ -5,7 +5,7 @@ Iniciat per [Artur Binefa] de enginy 3D amb Freecad, i realitzat per [Jordi Mayn
 
 Stemfie es un projecte de construcció lliure, que s'imprimeix en 3D (http://stemfie.org) 
 
-<img src="Imatges/GuepardBotArtur1.jpg" width="300" />
+<img src="Imatges/GuepardBotArtur2.jpg" width="300" />
 
 Tota la [documentació es pot trobar en PDF](https://github.com/maynej/GuepardBot/tree/main/DOC).
 
