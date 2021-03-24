@@ -16,7 +16,7 @@ STL per imprimir (https://github.com/maynej/GuepardBot/tree/main/STL).
 Descripció         | Imatge          | Arxiu         
 ------------- | ------------- | ------------- 
 Suport Arduino Nano i tapa |![](Imatges/GUEPARDBOT1.png) ![](Imatges/GUEPARDBOT2.png) | [Arduino Nano](STL/ArduinoNanoStemfie.stl), [Tapa Arduino Nano](STL/TapaArduinoNanoStemfie.stl)
-Suport Bateria Li-ion 18650|![](Imatges/GUEPARDBOT3.png) | [18650](STL/18650Holder2Stemfie.stl)
+Suport Bateria Li-ion 18650|![](Imatges/GUEPARDBOT3.png) | [18650](STL/18650.stl)
 Suport Servo-motor SG9|![](Imatges/Servo1.png) ![](Imatges/Servo2.png) | [ServoSuport 3H](STL/ServoSuport4migStemfie.stl), [ServoSuport 3V](STL/ServoSuport3VStemfie.stl)
 Suport palanca Servo-motor SG9|![](Imatges/Servo3.png) |[Adapter SG9](STL/Servo9GAdapter_Stemfie.stl)
 Biga 22 |![](Imatges/GUEPARDBOT4.png) | [Biga 22](STL/Beam22.stl)
