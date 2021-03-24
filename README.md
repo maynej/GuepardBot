@@ -22,7 +22,7 @@ Suport palanca Servo-motor SG9|![](Imatges/Servo3.png) |[Adapter SG9](STL/Servo9
 Biga 22 |![](Imatges/GUEPARDBOT4.png) | [Biga 22](STL/Beam22.stl)
 Biga 6 |![](Imatges/GUEPARDBOT5.png) | [Biga 6](STL/Beam1x1x6.stl)
 Biga 4 |![](Imatges/GUEPARDBOT6.png) | [Biga 4](STL/Beam1x1x4.stl)
-Tensor 4 |![](Imatges/GUEPARDBOT7.png) | [Tensor 4](STL/Brace STR ERR BU04x01x00.25 - SPN-BRC-0003.stl)
+Tensor 4 |![](Imatges/GUEPARDBOT7.png) | [Tensor 4](STL/BraceSTR_ERR_BU04x01x00.25-SPN-BRC-0003.stl)
 Femella |![](Imatges/GUEPARDBOT8.png) | [Femella](STL/Nut RH BU01.00x5mm - SPN-NUT-0001 (stemfie.org).stl)
 Cara Guepard |![](Imatges/GUEPARDBOT9.png) ![](Imatges/GUEPARDBOT10.png) | [Cara Guepard](STL/SensorAsimetric3H_STEMFIE.stl)
 Cargol BU00.50 |![](Imatges/BU00.50.png) | [Cargol BU00.50](STL/Shoulder Screw RHD RH BU00.50 - SPN-SSC-0042 (stemfie.org).stl)
