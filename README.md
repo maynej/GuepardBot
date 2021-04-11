@@ -1,4 +1,5 @@
-# GuepardBot
+# GuepardBot <img src="Imatges/UnderConstruction.png" width="50" />
+
 STEMFIE adaptation to Baby MIT Cheetah 
 
 Iniciat per [Artur Binefa] de enginy 3D amb Freecad, i realitzat per [Jordi Mayné](https://github.com/maynej) des de Mechatronic Study <img src="Imatges/Logo3senseFons.png" width="50" />
