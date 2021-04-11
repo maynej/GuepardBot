@@ -1,9 +1,10 @@
-# GuepardBot
+# GuepardBot <img src="Imatges/UnderConstruction.png" width="50" />
+
 STEMFIE adaptation to Baby MIT Cheetah 
 
 Iniciat per [Artur Binefa] de enginy 3D amb Freecad, i realitzat per [Jordi Mayné](https://github.com/maynej) des de Mechatronic Study <img src="Imatges/Logo3senseFons.png" width="50" />
 
-Stemfie es un projecte de construcció lliure, que s'imprimeix en 3D (http://stemfie.org) 
+STEMFIE es un projecte de construcció lliure, que s'imprimeix en 3D (http://stemfie.org) <img src="Imatges/LogoSTEMFIE.png" width="100" />
 
 <img src="Imatges/GuepardBotArtur2.jpg" width="300" />
 
@@ -25,11 +26,12 @@ Biga 4 |![](Imatges/GUEPARDBOT6.png) | [Biga 4](STL/Beam1x1x4.stl)
 Tensor 4 |![](Imatges/GUEPARDBOT7.png) | [Tensor 4](STL/BraceSTR_ERR_BU04x01x00.25-SPN-BRC-0003.stl)
 Femella |![](Imatges/GUEPARDBOT8.png) | [Femella](STL/NutRH_BU01.00x5mm-SPN-NUT-0001.stl)
 Cara Guepard |![](Imatges/GUEPARDBOT9.png) ![](Imatges/GUEPARDBOT10.png) | [Cara Guepard](STL/SensorAsimetric3H_STEMFIE.stl)
-Cargol BU00.50 |![](Imatges/BU00.50.png) | [Cargol BU00.50](STL/ShoulderScrew_RHD_RH_BU00.50-SPN-SSC-0042.stl)
-Cargol BU00.75 |![](Imatges/BU00.75.png) | [Cargol BU00.75](STL/ShoulderScrew_RHD_RH_BU00.75-SPN-SSC-0043.stl)
-Cargol BU01.25 |![](Imatges/BU01.25.png) | [Cargol BU01.25](STL/ShoulderScrew_RHD_RH_BU01.25-SPN-SSC-0045.stl)
-Cargol BU02.00 |![](Imatges/BU02.00.png) | [Cargol BU02.00](STL/ShoulderScrew_RHD_RH_BU02.00-SPN-SSC-0048.stl)
+Cargol BU00.50 |![](Imatges/BU00.50.png) | [Cargol BU00.50](STL/ShoulderScrewRHD_RH_BU00.50-SPN-SSC-0042.stl)
+Cargol BU00.75 |![](Imatges/BU00.75.png) | [Cargol BU00.75](STL/ShoulderScrewRHD_RH_BU00.75-SPN-SSC-0043.stl)
+Cargol BU01.25 |![](Imatges/BU01.25.png) | [Cargol BU01.25](STL/ShoulderScrewRHD_RH_BU01.25-SPN-SSC-0045.stl)
+Cargol BU02.00 |![](Imatges/BU02.00.png) | [Cargol BU02.00](STL/ShoulderScrewRHD_RH_BU02.00-SPN-SSC-0048.stl)
+Volandera |![](Imatges/Washer.png) | [Volandera](STL/NutRHBU01.00x5mm-SPN-NUT-0001.stl)
 
 ## Llicència
 
-Attribution-ShareAlike 4.0 International (CC BY-SA 4.0)
+Creative Commons Attribution-NoComercial-ShareAlike 4.0 International (CC BY-NC-SA 4.0)  <img src="Imatges/CC.png" width="100" />
