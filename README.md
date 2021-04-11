@@ -29,6 +29,7 @@ Cargol BU00.50 |![](Imatges/BU00.50.png) | [Cargol BU00.50](STL/ShoulderScrewRHD
 Cargol BU00.75 |![](Imatges/BU00.75.png) | [Cargol BU00.75](STL/ShoulderScrewRHD_RH_BU00.75-SPN-SSC-0043.stl)
 Cargol BU01.25 |![](Imatges/BU01.25.png) | [Cargol BU01.25](STL/ShoulderScrewRHD_RH_BU01.25-SPN-SSC-0045.stl)
 Cargol BU02.00 |![](Imatges/BU02.00.png) | [Cargol BU02.00](STL/ShoulderScrewRHD_RH_BU02.00-SPN-SSC-0048.stl)
+Volandera |![](Imatges/Washer.png) | [Volandera](STL/NutRHBU01.00x5mm-SPN-NUT-0001.stl)
 
 ## Llicència
 
