@@ -3,7 +3,7 @@ STEMFIE adaptation to Baby MIT Cheetah
 
 Iniciat per [Artur Binefa] de enginy 3D amb Freecad, i realitzat per [Jordi Mayné](https://github.com/maynej) des de Mechatronic Study <img src="Imatges/Logo3senseFons.png" width="50" />
 
-Stemfie es un projecte de construcció lliure, que s'imprimeix en 3D (http://stemfie.org) 
+STEMFIE es un projecte de construcció lliure, que s'imprimeix en 3D (http://stemfie.org) <img src="Imatges/LogoSTEMFIE.png" width="100" />
 
 <img src="Imatges/GuepardBotArtur2.jpg" width="300" />
 
@@ -32,4 +32,4 @@ Cargol BU02.00 |![](Imatges/BU02.00.png) | [Cargol BU02.00](STL/ShoulderScrewRHD
 
 ## Llicència
 
-Attribution-ShareAlike 4.0 International (CC BY-SA 4.0)
+Creative Commons Attribution-NoComercial-ShareAlike 4.0 International (CC BY-NC-SA 4.0)  <img src="Imatges/CC.png" width="100" />
