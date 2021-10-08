@@ -10,9 +10,8 @@ STEMFIE es un projecte de construcció lliure, que s'imprimeix en 3D (http://ste
 
 Tota la [documentació es pot trobar en PDF](https://github.com/maynej/GuepardBot/tree/main/DOC).
 
-STL per imprimir la Cabina [aquí](https://github.com/maynej/GuepardBot/tree/main/STL/Cabin).
-STL per imprimir la Roda [aquí](https://github.com/maynej/GuepardBot/tree/main/STL/Wheel).
-STL per imprimir la Base [aquí](https://github.com/maynej/GuepardBot/tree/main/STL/Base).
+STL per imprimir la Cabina [aquí](https://github.com/maynej/GuepardBot/tree/main/STL).
+
 
 ## Suports 3D
   
