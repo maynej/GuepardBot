@@ -33,6 +33,9 @@ Cargol BU01.25 |![](Imatges/BU01.25.png) | [Cargol BU01.25](STL/ShoulderScrewRHD
 Cargol BU02.00 |![](Imatges/BU02.00.png) | [Cargol BU02.00](STL/ShoulderScrewRHD_RH_BU02.00-SPN-SSC-0048.stl)
 Volandera |![](Imatges/Washer.png) | [Volandera](STL/NutRHBU01.00x5mm-SPN-NUT-0001.stl)
 
+## QR
+<img src="https://www.codigos-qr.com/qr/php/qr_img.php?d=https%3A%2F%2Fgithub.com%2Fmaynej%2FGuepardBot&s=6&e=m"/>
+
 ## Llicència
 
 Creative Commons Attribution-NoComercial-ShareAlike 4.0 International (CC BY-NC-SA 4.0)  <img src="Imatges/CC.png" width="100" />
